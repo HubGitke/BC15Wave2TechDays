@@ -8,7 +8,7 @@
             "server": "http://172.22.254.236", //"http://BC15Wave2"
             "serverInstance": "BC",
             "authentication": "UserPassword",
-            "startupObjectId": 50000,
+            "startupObjectId": 50002,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
